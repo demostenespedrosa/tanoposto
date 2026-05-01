@@ -1,0 +1,9 @@
+{
+  "name": "Fuel Discount Platform",
+  "description": "A comprehensive three-part Progressive Web App system designed to disrupt the fuel discount market, featuring Customer, Attendant, and Admin interfaces.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
